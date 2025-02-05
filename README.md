@@ -1,2 +1,2 @@
 # connepo
-通讯录App
+Contacts App
